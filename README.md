@@ -9,5 +9,5 @@ A mongoDB + Keystone 5 CMS blog app with Nuxtjs and Vuejs in front end.
 3. grapql API
 4. tailwindcss
 
-Hope this will help new comers to learn Keystone-5.
+>Hope this project will help beginners to get started with Kesytone CMS + Nuxt
 
